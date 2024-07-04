@@ -1,4 +1,6 @@
 # Potsdam Cyber Games 2024
 
-Take a look at my writeup for the challenge Gym 2. You can find the exploit code
-for this challenge in this repository.
+## Gym 2
+
+This repository contains the files of this challenge and my exploit .
+Additionaly, you can find a writeup on my homepage.
